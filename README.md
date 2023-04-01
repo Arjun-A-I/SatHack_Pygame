@@ -8,8 +8,8 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Arjun A I [https://github.com/Arjun-A-I]
-2. Manu NS [Embed perosnal github URL]
-3. Adithyan T [Embed perosnal github URL]
+2. Manu NS [https://github.com/Manu-N-S]
+3. Adithyan T [https://github.com/Adith628]
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
