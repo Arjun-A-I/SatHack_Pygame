@@ -7,8 +7,9 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Arjun A I [Embed personal github URL]
+2. Manu NS [Embed perosnal github URL]
+3. Adithyan T [Embed perosnal github URL]
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
