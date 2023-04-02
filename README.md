@@ -44,7 +44,7 @@ The user's score and progress can be displayed on the screen at all times.
 
 ## Libraries used
 Latest version of each library is used:
-Pygame
+Pygame \n
 OpenCV
 Tensorflow
 NumPy
