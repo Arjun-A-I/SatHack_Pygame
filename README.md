@@ -52,11 +52,11 @@ pyttsx3
 
 ## How to configure
 Install the above mentioned libraries in python using-
-pip install pygame
-pip install opencv
-pip install tensorflow
-pip install numpy
-pip install pyttsx3
+pip install pygame  
+pip install opencv  
+pip install tensorflow  
+pip install numpy  
+pip install pyttsx3  
 You need to have a webcam setup on your system.
 
 ## How to Run
