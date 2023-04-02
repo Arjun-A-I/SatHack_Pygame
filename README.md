@@ -19,7 +19,7 @@ SignLingo focusses on interactiveness and  is developed to bridge the gap caused
 
 ## Team members
 1. Arjun A I [https://github.com/Arjun-A-I]
-2. Manu NS [https://github.com/Manu-N-S]
+2. Manu N S [https://github.com/Manu-N-S]
 3. Adithyan T [https://github.com/Adith628]
 
 ## Link to product walkthrough
