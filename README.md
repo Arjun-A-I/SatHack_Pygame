@@ -5,8 +5,8 @@
 # SignLingo
 
 Have you ever seen a game for non verbal people? 
-Introducing SignLingo! An all in one app to learn and challenge ASL(American Sign Language)
-Its an interactive game designed to help deaf individuals learn and master sign language. With its user-friendly interface and engaging gameplay, SignLingo makes learning sign language both fun and educational.
+Introducing SignLingo! An all in one app to learn and challenge yourself with ASL(American Sign Language).
+Its an interactive game designed to help verbally disbled individuals to learn and master sign language. With its user-friendly interface and engaging gameplay, SignLingo makes learning sign language both fun and educational.
 
 The game is divided into different levels, each with its own set of sign language lessons. Users can progress through the levels at their own pace, learning and practicing their skills as they go.Added voice assistance makes the lessons more interactive.
 
