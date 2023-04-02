@@ -26,7 +26,7 @@ SignLingo focusses on interactiveness and  is developed to bridge the gap caused
 [link to video]
 
 ## How it Works ?
-1. Explaining the working of project
+
 The game launches with a home screen that allows the user to select the game level.
 Once the user selects a level, the game redirects to the level screen user interface for that specific level.
 If the user selects level one, a basic level is displayed that shows a sign language letter.
@@ -37,7 +37,7 @@ If the user selects level two, an object is displayed, and the user is required 
 If the user inputs the correct spelling of the object, they are directed to the next sub-level. If they input the wrong spelling, the level is reset.
 The game continues with increasingly challenging levels, and the user must complete each level to progress to the next.
 The game ends when the user completes all levels or chooses to exit the game.
-The user's score and progress can be displayed on the screen at all times.
+The user's score and progress can be displayed on the screen at all times.  
 
 
 2. Embed video of project demo
@@ -60,6 +60,5 @@ pip install pyttsx3
 You need to have a webcam setup on your system.
 
 ## How to Run
-Instructions for running
 Just run final.py file and you're all set!
 Happy Learning!
