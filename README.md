@@ -23,7 +23,7 @@ SignLingo focusses on interactiveness and  is developed to bridge the gap caused
 3. Adithyan T [https://github.com/Adith628]
 
 ## Link to product walkthrough
-[link to video]
+https://drive.google.com/file/d/1XtgZeV3HKuAnD6Qobkka7AspkF9aUetW/view?usp=drivesdk
 
 ## How it Works ?
 
@@ -40,7 +40,8 @@ The game ends when the user completes all levels or chooses to exit the game.
 The user's score and progress can be displayed on the screen at all times.  
 
 
-2. Embed video of project demo
+Video demo  
+https://drive.google.com/file/d/1XtgZeV3HKuAnD6Qobkka7AspkF9aUetW/view?usp=drivesdk
 
 ## Libraries used
 Latest version of each library is used:  
