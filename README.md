@@ -60,5 +60,6 @@ pip install pyttsx3
 You need to have a webcam setup on your system.
 
 ## How to Run
-Just run final.py file and you're all set!
+Clone the repo into your local directory  
+Run final.py file and you're all set!
 Happy Learning!
