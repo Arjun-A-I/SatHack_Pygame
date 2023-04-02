@@ -43,13 +43,12 @@ The user's score and progress can be displayed on the screen at all times.
 2. Embed video of project demo
 
 ## Libraries used
-Latest version of each library is used:
+Latest version of each library is used:  
 Pygame  
-
-OpenCV
-Tensorflow
-NumPy
-pyttsx3
+OpenCV  
+Tensorflow  
+NumPy  
+pyttsx3  
 
 ## How to configure
 Install the above mentioned libraries in python using-
