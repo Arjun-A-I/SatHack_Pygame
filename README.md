@@ -51,7 +51,7 @@ NumPy
 pyttsx3  
 
 ## How to configure
-Install the above mentioned libraries in python using-
+Install the above mentioned libraries in python using-  
 pip install pygame  
 pip install opencv  
 pip install tensorflow  
